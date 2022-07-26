@@ -1,10 +1,10 @@
 {
-  "name": "qq-qrcode-login",
+  "name": "qq-login-qrcode",
   "description": "基于 node.js 开发的 QQ 扫码登录模块",
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qiangmouren/qq-qrcode-login"
+    "url": "https://github.com/qiangmouren/qq-login-qrcode"
   },
   "dependencies": {
     "axios": "^0.27.2"

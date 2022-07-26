@@ -1,4 +1,4 @@
-# QQ-Qrcode-Login
+# QQ-Login-Qrcode
 
 基于 node.js 开发的 QQ 扫码登录模块
 
@@ -7,19 +7,19 @@
 Using npm:
 
 ```bash
-$ npm install qq-qrcode-login
+$ npm install qq-login-qrcode
 ```
 
 Using yarn:
 
 ```bash
-$ yarn add qq-qrcode-login
+$ yarn add qq-login-qrcode
 ```
 
 ## Example
 
 ```js
-const login = require('qq-qrcode-login');
+const login = require('qq-login-qrcode');
 ```
 
 ## API
